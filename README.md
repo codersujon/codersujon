@@ -1,31 +1,37 @@
-# 👋 Hi, I'm [MD SUJAN AHMED]!
 
-### 🚀 Full Stack Developer | 🌐 Open Source Contributor | 🇧🇩 Based in Bangladesh
+<h1 align="center">👋 Hello, I'm MD SUJAN AHMED</h1>
+<h3 align="center">🚀 Full Stack Developer | 🌐 Open Source Contributor | 🧠 Problem Solver | 🇧🇩 Tech Enthusiast from Bangladesh</h3>
 
-Welcome to my GitHub profile! I’m passionate about building high-quality web and mobile applications using modern tools and technologies.
-
----
-
-## 🧠 About Me
-
-- 🔭 I’m currently working on: `Laravel + Flutter Multirole Financial Platform`
-- 🌱 Learning: Advanced Laravel Modular Systems, Livewire, Inertia, Vue, Docker
-- 💬 Ask me about: Laravel, Flutter, Modular Architecture, REST APIs, DevOps
-- ⚡ Fun fact: I solve real-world problems with elegant code.
-- 🗣 Languages: English, Bangla
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Laravel+%2B+Modular+Architecture+Lover;Secure+API+Craftsman;Open+Source+Contributor" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🔍 About Me
 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- 🎯 **Over 5+ years** of experience in scalable software systems
+- 🏗️ Specialist in `Laravel`, `Flutter`, `Modular Architecture`, `Role Management`, and `Localization`
+- 🧩 Passionate about building clean code with **SOLID** principles and **Domain-Driven Design**
+- 📦 Expert in `REST APIs`, `JWT`, `2FA`, `Queue Jobs`, `Dynamic QR`, and `Multilingual CMS`
+- 🌐 I love turning complex ideas into simple, user-friendly systems
+- 🧠 Currently learning **Docker**, **CI/CD**, and **Microservices with Laravel Octane**
+  
+---
+
+### 🛠️ Tech Stack
+
+**Backend**  
+`Laravel` • `PHP 8.x` • `MySQL` • `REST API` • `JWT` • `Queue` • `Cron Jobs` • `Livewire` • `Inertia`
+
+**Frontend & Mobile**  
+• `Blade` • `TailwindCSS` • `SCSS` • `Vue.js` • `jQuery` • `React JS`
+
+**Tools & DevOps**  
+`Git` • `GitHub Actions` • `Docker` • `Postman` • `Figma` • `cPanel` • `Linux CLI`
+
+**Database & Others**  
+`MySQL` • `Firebase` • `Pusher` • `Redis` • `Spatie Permissions` • `i18n`
 
 ---
 
