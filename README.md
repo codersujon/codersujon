@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 Hello, I'm MD SUJAN AHMED</h1>
-<h3 align="center">🚀 Full Stack Developer | 🌐 Open Source Contributor | 🧠 Problem Solver | 🇧🇩 Tech Enthusiast from Bangladesh</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 Problem Solver | 🇧🇩 Tech Enthusiast from Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Laravel+%2B+Modular+Architecture+Lover;Secure+API+Craftsman;Open+Source+Contributor" />
@@ -10,7 +10,7 @@
 
 ### 🔍 About Me
 
-- 🎯 **Over 5+ years** of experience in scalable software systems
+- 🎯 **Over 3+ years** of experience in scalable software systems
 - 🏗️ Specialist in `Laravel`, `Flutter`, `Modular Architecture`, `Role Management`, and `Localization`
 - 🧩 Passionate about building clean code with **SOLID** principles and **Domain-Driven Design**
 - 📦 Expert in `REST APIs`, `JWT`, `2FA`, `Queue Jobs`, `Dynamic QR`, and `Multilingual CMS`
@@ -31,13 +31,13 @@
 `Git` • `GitHub Actions` • `Docker` • `Postman` • `Figma` • `cPanel` • `Linux CLI`
 
 **Database & Others**  
-`MySQL` • `Firebase` • `Pusher` • `Redis` • `Spatie Permissions` • `i18n`
+`MySQL` • `Firebase` • `Pusher` • `Redis` • `Spatie Permissions`
 
 ---
 
 ## 📫 Connect with Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/your-profile)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/codersujon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/codersujon)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:csesujon155@@email.com)
 
