@@ -31,7 +31,7 @@
 `Git` • `GitHub Actions` • `Docker` • `Postman` • `Figma` • `cPanel` • `Linux CLI`
 
 **Database & Others**  
-`MySQL` • `Firebase` • `Pusher` • `Redis` • `Spatie Permissions`
+`MySQL` • `MSSQL` • `Pusher` • `Redis` • `Spatie Permissions`
 
 ---
 
